@@ -1,0 +1,8 @@
+nohup: ignoring input
+
+> cluster@0.0.0 start /home/bitnami/cluster
+> node ./bin/www
+
+ID 30134
+[0mGET / [36m304 [0m326.215 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m80.804 ms - -[0m
